@@ -1,0 +1,11 @@
+1. 변수 : test.sh
+2. 조건문(if) : ifExam1.sh ifExam2.sh
+3. 반복문(for, while) : forExam.sh, whileExam.sh
+4. 연산 : caltest.sh, cal.sh
+
+괄호
+	[] : 파일 존재여부, 숫자비교
+	[[]] : <, >, && ... 논리연산
+	(()) : 산술연산
+	() : 조건 분기문
+	괄호X : 조건 분기문
